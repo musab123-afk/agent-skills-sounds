@@ -1,0 +1,175 @@
+{
+ "about": "Sound effects synthesised in-house by Shotstack; free to use in any video made with this skill.",
+ "roles": {
+  "click": [
+   {
+    "file": "click-1.mp3",
+    "dur": 0.04,
+    "peak": 0.007
+   },
+   {
+    "file": "click-2.mp3",
+    "dur": 0.04,
+    "peak": 0.008
+   },
+   {
+    "file": "click-3.mp3",
+    "dur": 0.04,
+    "peak": 0.008
+   }
+  ],
+  "key": [
+   {
+    "file": "key-1.mp3",
+    "dur": 0.05,
+    "peak": 0.008
+   },
+   {
+    "file": "key-2.mp3",
+    "dur": 0.05,
+    "peak": 0.008
+   },
+   {
+    "file": "key-3.mp3",
+    "dur": 0.05,
+    "peak": 0.008
+   }
+  ],
+  "pop": [
+   {
+    "file": "pop-1.mp3",
+    "dur": 0.12,
+    "peak": 0.008
+   },
+   {
+    "file": "pop-2.mp3",
+    "dur": 0.12,
+    "peak": 0.009
+   },
+   {
+    "file": "pop-3.mp3",
+    "dur": 0.12,
+    "peak": 0.009
+   }
+  ],
+  "soft": [
+   {
+    "file": "soft-1.mp3",
+    "dur": 0.121,
+    "peak": 0.014
+   },
+   {
+    "file": "soft-2.mp3",
+    "dur": 0.129,
+    "peak": 0.02
+   },
+   {
+    "file": "soft-3.mp3",
+    "dur": 0.123,
+    "peak": 0.016
+   }
+  ],
+  "swoosh": [
+   {
+    "file": "swoosh-1.mp3",
+    "dur": 0.4,
+    "peak": 0.203
+   },
+   {
+    "file": "swoosh-2.mp3",
+    "dur": 0.442,
+    "peak": 0.209
+   },
+   {
+    "file": "swoosh-3.mp3",
+    "dur": 0.447,
+    "peak": 0.253
+   }
+  ],
+  "whoosh": [
+   {
+    "file": "whoosh-1.mp3",
+    "dur": 0.63,
+    "peak": 0.462
+   },
+   {
+    "file": "whoosh-2.mp3",
+    "dur": 0.626,
+    "peak": 0.453
+   },
+   {
+    "file": "whoosh-3.mp3",
+    "dur": 0.61,
+    "peak": 0.431
+   }
+  ],
+  "thud": [
+   {
+    "file": "thud-1.mp3",
+    "dur": 0.5,
+    "peak": 0.012
+   },
+   {
+    "file": "thud-2.mp3",
+    "dur": 0.5,
+    "peak": 0.009
+   },
+   {
+    "file": "thud-3.mp3",
+    "dur": 0.5,
+    "peak": 0.009
+   }
+  ],
+  "tick": [
+   {
+    "file": "tick-1.mp3",
+    "dur": 0.046,
+    "peak": 0.008
+   },
+   {
+    "file": "tick-2.mp3",
+    "dur": 0.106,
+    "peak": 0.008
+   },
+   {
+    "file": "tick-3.mp3",
+    "dur": 0.052,
+    "peak": 0.008
+   }
+  ],
+  "rise": [
+   {
+    "file": "rise-1.mp3",
+    "dur": 0.842,
+    "peak": 0.832
+   },
+   {
+    "file": "rise-2.mp3",
+    "dur": 0.847,
+    "peak": 0.84
+   },
+   {
+    "file": "rise-3.mp3",
+    "dur": 0.857,
+    "peak": 0.859
+   }
+  ],
+  "done": [
+   {
+    "file": "done-1.mp3",
+    "dur": 0.9,
+    "peak": 0.1
+   },
+   {
+    "file": "done-2.mp3",
+    "dur": 0.9,
+    "peak": 0.1
+   },
+   {
+    "file": "done-3.mp3",
+    "dur": 0.9,
+    "peak": 0.1
+   }
+  ]
+ }
+}
